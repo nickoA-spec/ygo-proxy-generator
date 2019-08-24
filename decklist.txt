@@ -12,95 +12,146 @@
 ############
 
 # Regular Monsters
-Subterror Behemoth Umastryx
-Subterror Guru
-Subterror Guru
-Subterror Guru
+
+Endymion, the Mighty Master of Magic
+
+Endymion, the Mighty Master of Magic
+
+Magical Abductor
+
+Magical Abductor
+
+Magical Abductor
+
+Chronograph Sorcerer
+
+Chronograph Sorcerer
+
+Chronograph Sorcerer
+
+Servant of Endymion
+
+Servant of Endymion
+
+Servant of Endymion
+
+Timegazer Magician
+
+Black Fang Magician
+
+Purple Poison Magician
+
+Purple Poison Magician
+
+Purple Poison Magician
+
+Zefraath
+
+Zefraath
+
+Zefraniu, Secret of the Yang Zing
+
+Zefraniu, Secret of the Yang Zing
+
+Mythical Beast Jackal King
+
+Mythical Beast Jackal King
+
+Mythical Beast Jackal King
+
+Mythical Beast Master Cerberus
+
+Supreme King Dragon Darkwurm
+
+Supreme King Dragon Darkwurm
+
+Supreme King Dragon Darkwurm
+
+Aether, the Evil Empowering Dragon
+
+Oafdragon Magician
 
 # Hand Traps
-Ash Blossom & Joyous Spring
-Ash Blossom & Joyous Spring
-Ash Blossom & Joyous Spring
-Subterror Fiendess
-Subterror Fiendess
-Subterror Fiendess
-Effect Veiler
-Effect Veiler
+
 
 # Consistency Spells
-Pot of Extravagance
-Pot of Extravagance
-Pot of Extravagance
+
+Oracle of Zefra
+
+Oracle of Zefra
+
 Terraforming
-Terraforming
-Pot of Duality
-Pot of Duality
-Pot of Duality
-The Hidden City
-The Hidden City
-The Hidden City
+
+Spell Power Mastery
+
+Spell Power Mastery
+
+Spell Power Mastery
+
+Pendulum Call
+
+Pendulum Call
+
+Pot of Desires
+
+Pot of Desires
+
+Pot of Desires
 
 # Floodgates
-Summon Limit
-Summon Limit
-Summon Limit
-There Can Be Only One
-There Can Be Only One
-There Can Be Only One
 
 # Other Traps
-Infinite Impermanence
-Infinite Impermanence
-Infinite Impermanence
-Subterror Final Battle
-Subterror Final Battle
-Subterror Final Battle
-Solemn Strike
-Solemn Strike
-Solemn Strike
-Solemn Judgment
-Solemn Warning
+
+Zefra Divine Strike
+
+Zefra Divine Strike
 
 
 # Extra Deck
 #############
 
+Heavymetalfoes Electrumite
+
+Decode Talker
+
+Saryuja Skull Dread
+
+Zefra Metaltron
+
+Underclock Taker
+
+Day-Breaker the Shining Magical Warrior
+
+Hot Red Dragon Archfiend Abyss
+
+Odd-Eyes Meteorburst Dragon
+
+Enlightenment Paladin
+
+Stardust Dragon 
+
+Arcanite Magician
+
+Number 39 Utopia
+
+Timestar Magician
+
+Kachi Kochi Dragon
+
+Norito the Moral Leader
+
 # The extra deck is rarely used in this deck and is mostly there for Pot of Extravagance
 
-Shooting Quasar Dragon
-Borreload Dragon
-Borrelsword Dragon
-Saryuja Skull Dread
-Summon Sorceress
-Curious, the Lightsworn Dominion
-Decode Talker
-Knightmare Unicorn
-Knightmare Phoenix
-Knightmare Cerberus
-Missus Radiant
-Missus Radiant
-Missus Radiant
-Reprodocus
-Link Spider
+
 
 
 # Side Deck
 ############
 
-# This side deck is probably not optimal...
+Droll & Lock Bird
 
-Subterror Nemesis Archer
-Subterror Nemesis Archer
-Ghost Ogre & Snow Rabbit
-Ghost Ogre & Snow Rabbit
-Scapegoat
-Subterror Cave Clash
-Necrovalley
-Necrovalley
-Necrovalley
-Heavy Storm Duster
-Heavy Storm Duster
-Heavy Storm Duster
-Gozen Match
-Gozen Match
-Gozen Match
+Droll & Lock Bird
+
+Droll & Lock Bird
+
+# This side deck is probably not optimal...
